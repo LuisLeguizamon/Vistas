@@ -22,7 +22,7 @@ public class Listview extends AppCompatActivity {
         listajava=(ListView)findViewById(R.id.listaxml);
 
         //Defined Array values to show in ListView
-        String[] values = new String[] {"AGRO","ARTES","ELECTRICIDAD","FINANZAS","GASTRONOMÍA","TECNOLOGIA","IDIOMAS","SALUD"};
+        String[] values = new String[] {"AGRO","ARTES","ELECTRICIDAD","FINANZAS","GASTRONOMÍA","TECNOLOGÍA","IDIOMAS","SALUD"};
 
         // Define a new Adapter
         // First parameter - Context

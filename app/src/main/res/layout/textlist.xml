@@ -5,12 +5,22 @@
     android:gravity="center">
 
     <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:gravity="start"
         android:typeface="sans"
         android:fontFamily="san-serif-medium"
         android:textSize="20sp"
-        android:id="@+id/textformat"/>
+        android:textColor="@color/text_title"
+        android:id="@+id/textformat" />
+
+
+
+    <ImageView
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:layout_gravity="start"
+        android:id="@+id/icon"
+        android:src="@mipmap/ic_launcher"/>
 
 </LinearLayout>

@@ -13,11 +13,17 @@
     android:id="@+id/listaxml"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:listSelector="@drawable/list_selector"
-    android:dividerHeight="50sp"
+
+    android:dividerHeight="2sp"
+    android:divider="@color/divider"
+
+    android:paddingBottom="7sp"
+    android:paddingLeft="9sp"
+    android:paddingRight="9sp"
+    android:paddingTop="10sp"
+
+    android:cacheColorHint="@android:color/transparent"
+
     ></ListView>
 
 </LinearLayout>
-
-
-

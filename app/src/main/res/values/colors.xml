@@ -4,4 +4,12 @@
     <color name="colorPrimaryDark">#0288D1</color>
     <color name="colorAccent">#FF4081</color>
 
+    <color name="white">#0000</color>
+    <color name="divider">#26000000</color>
+    <color name="text_title">#D9000000</color>
+
+    <!--
+   26 para 15% de negro
+   D9 para 85% de 000000(negro)
+       -->
 </resources>
