@@ -7,7 +7,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="16dp"
-    tools:context=".Listview">
+    tools:context=".Listview"
+    >
 
 <ListView
     android:id="@+id/listaxml"
@@ -22,7 +23,9 @@
     android:paddingRight="9sp"
     android:paddingTop="10sp"
 
-    android:cacheColorHint="@android:color/transparent"
+
+
+
 
     ></ListView>
 
